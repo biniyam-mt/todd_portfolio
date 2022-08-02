@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/toddaustin/static/css/main.3bca0c2b.css",
-    "main.js": "/toddaustin/static/js/main.0f7c9972.js",
-    "static/js/787.fd5c3099.chunk.js": "/toddaustin/static/js/787.fd5c3099.chunk.js",
-    "index.html": "/toddaustin/index.html",
-    "main.3bca0c2b.css.map": "/toddaustin/static/css/main.3bca0c2b.css.map",
-    "main.0f7c9972.js.map": "/toddaustin/static/js/main.0f7c9972.js.map",
-    "787.fd5c3099.chunk.js.map": "/toddaustin/static/js/787.fd5c3099.chunk.js.map"
+    "main.css": "/toddaustin/home/static/css/main.3bca0c2b.css",
+    "main.js": "/toddaustin/home/static/js/main.7658a7ad.js",
+    "static/js/787.fd5c3099.chunk.js": "/toddaustin/home/static/js/787.fd5c3099.chunk.js",
+    "index.html": "/toddaustin/home/index.html",
+    "main.3bca0c2b.css.map": "/toddaustin/home/static/css/main.3bca0c2b.css.map",
+    "main.7658a7ad.js.map": "/toddaustin/home/static/js/main.7658a7ad.js.map",
+    "787.fd5c3099.chunk.js.map": "/toddaustin/home/static/js/787.fd5c3099.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bca0c2b.css",
-    "static/js/main.0f7c9972.js"
+    "static/js/main.7658a7ad.js"
   ]
 }
