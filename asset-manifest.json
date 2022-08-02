@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/toddaustin/static/css/main.3bca0c2b.css",
-    "main.js": "/toddaustin/static/js/main.98f415c3.js",
+    "main.css": "/toddaustin/static/css/main.a1489b3e.css",
+    "main.js": "/toddaustin/static/js/main.30a0c455.js",
     "static/js/787.fd5c3099.chunk.js": "/toddaustin/static/js/787.fd5c3099.chunk.js",
     "index.html": "/toddaustin/index.html",
-    "main.3bca0c2b.css.map": "/toddaustin/static/css/main.3bca0c2b.css.map",
-    "main.98f415c3.js.map": "/toddaustin/static/js/main.98f415c3.js.map",
+    "main.a1489b3e.css.map": "/toddaustin/static/css/main.a1489b3e.css.map",
+    "main.30a0c455.js.map": "/toddaustin/static/js/main.30a0c455.js.map",
     "787.fd5c3099.chunk.js.map": "/toddaustin/static/js/787.fd5c3099.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bca0c2b.css",
-    "static/js/main.98f415c3.js"
+    "static/css/main.a1489b3e.css",
+    "static/js/main.30a0c455.js"
   ]
 }
